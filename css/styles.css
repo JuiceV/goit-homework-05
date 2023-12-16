@@ -677,8 +677,8 @@ display: flex;
 }
 .mod-chekbox-input:checked + .mod-chek-label > .checkbox-style{
     background-color: #404bbf;
-        border: none;
-        fill: #F4F4FD;
+    border: none;
+    fill: #F4F4FD;
 }
 .mod-chekbox-input:focus + .mod-chek-label > .checkbox-style{
     border: 1px solid #4D5AE5;
