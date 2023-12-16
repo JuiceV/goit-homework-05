@@ -675,7 +675,7 @@ display: flex;
 .mod-chekbox-input:checked + .mod-chek-label .vector-icon{
     opacity: 1;
 }
-.mod-chekbox-input:checked+.mod-chek-label > .checkbox-style{
+.mod-chekbox-input:checked + .mod-chek-label > .checkbox-style{
     background-color: #404bbf;
         border: none;
         fill: #F4F4FD;
