@@ -548,6 +548,7 @@ display: flex;
 .modal-close-buutton:focus{
     background-color: #404bbf;
     border: none;
+    fill: #ffffff;
 }
 .mod-icon-but-cl{
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
@@ -685,4 +686,7 @@ display: flex;
 .privacy-policy-decoration {
     color: #4d5ae5;
     text-decoration-line: underline;
+}
+.mod-name-input:focus + .input-icon{
+    fill: #4D5AE5;
 }
