@@ -447,7 +447,9 @@ display: flex;
         letter-spacing: 0.02em;
         margin-bottom: 16px;
 }
-
+.container-app{
+    margin-right: 80px;
+}
 .footer-form-parag{
     margin-bottom: 16px;
     font-weight: 500;
@@ -456,6 +458,7 @@ display: flex;
     letter-spacing: 0.02em;
     color: #ffffff;
 }
+
 .footer-form-form{
     display: flex;
     gap: 24px;
