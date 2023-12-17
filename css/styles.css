@@ -680,9 +680,9 @@ display: flex;
     border: none;
     fill: #F4F4FD;
 }
-.mod-chekbox-input:focus + .mod-chek-label > .checkbox-style{
+/* .mod-chekbox-input:focus + .mod-chek-label > .checkbox-style{
     border: 1px solid #4D5AE5;
-}
+} */
 .privacy-policy-decoration {
     color: #4d5ae5;
     text-decoration-line: underline;
